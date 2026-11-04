@@ -1,0 +1,5 @@
+YTCar.xcodeproj/
+Config/Info.plist
+build/
+Payload/
+*.ipa

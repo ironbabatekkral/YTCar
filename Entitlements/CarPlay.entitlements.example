@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- Only usable after Apple grants it to a paid developer account
+	     (https://developer.apple.com/contact/carplay/). Since iOS 26.3 it
+	     cannot be combined with other CarPlay entitlements. -->
+	<key>com.apple.developer.carplay-video</key>
+	<true/>
+</dict>
+</plist>
